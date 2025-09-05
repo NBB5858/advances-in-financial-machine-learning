@@ -9,13 +9,13 @@ Selected exercises from Advances in Financial Machine Learning by Marcos Lopez d
 ## Project Organization
 
 ```
-├── Makefile           <- Makefile with convenience commands like `make requirements'
+├── Makefile           <- Makefile with convenience commands like 'make requirements'
 ├── README.md          
 ├── data
 │   └── raw            <- Raw data used throughout exercises. Orginal source is Databento and Kaggle
 ├── notebooks          <- Jupyter notebooks for chapter exercises
 ├── pyproject.toml     <- Project configuration file with package metadata
-├── requirements.txt   <- The requirements file for reproducing the analysis environment│
+├── requirements.txt   <- The requirements file for reproducing the analysis environment
 └── AFML_module        <- Commonly reused code for this project
 ```
 
